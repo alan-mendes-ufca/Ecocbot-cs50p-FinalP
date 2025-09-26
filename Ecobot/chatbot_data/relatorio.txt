@@ -1,0 +1,6 @@
+==== RELATÓRIO ECOBOT ====
+Total de interações: 15
+Pergunta mais feita: oi
+Uso por personalidade:
+	Ecobot-education: 9 vezes
+
